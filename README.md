@@ -23,8 +23,8 @@ I have a lot more planned for the future; the more people with whom to collabora
 * csh
 * Awk
 * Atom
-* iTerm2
-* Git
+* iTerm2 w/ Git
+* <a href="https://redbooth.com" target="_blank">Redbooth</a>
 
 This project is licensed under the GPL v3.
 Copyright &copy; 2016 Stephen Sanders
