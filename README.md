@@ -18,6 +18,7 @@ I have a lot more planned for the future; the more people with whom to collabora
 
 ## Things Used in Development
 * C
+* Perl
 * Bash
 * csh
 * Awk
