@@ -6,8 +6,13 @@ This project is mostly so I can practice C, shell scripting, and Awk since I've 
 ## Use
 You can download the source of this project by simply clicking on the "Clone or Download" button. For now, you will need to manually allow execution permissions for each one before using it:
 ```shell
-chmod +x <script name>
+$ chmod +x <script name>
 ```
+For the C programs, you'll need to compile them first (typically with gcc):
+```shell
+$ gcc <c program>
+```
+And then run the output file.
 
 I will eventually be writing a brew formula for simpler installation which includes automatic execution permission. If I can't do the ladder part, then I will simply create and include a script for this project that will do so.
 
@@ -22,9 +27,8 @@ I have a lot more planned for the future; the more people with whom to collabora
 * Bash
 * csh
 * Awk
-* Atom
-* iTerm2 w/ Git
-* <a href="https://redbooth.com" target="_blank">Redbooth</a>
+* <a href="https://hyper.is/" target="_blank">Hyper</a>
+* Git
 
 This project is licensed under the GPL v3.
 Copyright &copy; 2016 Stephen Sanders
