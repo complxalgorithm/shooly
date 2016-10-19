@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <signal.h>
-#include <cctype.h>
+#include <ctype.h>
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>   /* for PF_INET sockets */
