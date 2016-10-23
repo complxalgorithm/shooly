@@ -3,8 +3,10 @@
 # title: redelfi.sh
 # author: Stephen C. Sanders <complxalgorithm>
 # license: GNU GPL V.3
-# recursively deletes every file in current working directory
-# but only after it is given consent to do so
+# description: recursively deletes every file in current working directory
+# but only after it is given consent to do so.
+# also offers other options, such as editing/viewing file in
+# nano, etc.
 
 for file in *
 do
