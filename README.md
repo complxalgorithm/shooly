@@ -8,9 +8,13 @@ You can download the source of this project by simply clicking on the "Clone or 
 ```shell
 $ chmod +x <script name>
 ```
-For the C programs, you'll need to compile them first (typically with gcc):
+For the C programs, you'll need to compile them first (typically with gcc or cc):
 ```shell
 $ gcc <c program>
+```
+---OR---
+```shell
+$ cc <c program>
 ```
 And then run the output file.
 
