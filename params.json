@@ -1,0 +1,6 @@
+{
+  "name": "Shooly",
+  "tagline": "simple tools in C, Shell, and Awk",
+  "body": "### Description\r\nThis is an ever-growing collection of C, Shell (mostly Bash), Perl, and (G)awk scripts that I've written in an attempt to broaden my systems programming skills. \r\n\r\n### Authors and Contributors\r\nStephen C. Sanders (@complxalgorithm)<br />\r\nContact: <scsandman6496@gmail.com> -or- <stephen@omicroninteractive.com><br />\r\n[Website](http://stephensanders.me)\r\n\r\n### License\r\nCopyright &copy; 2016 <a href=\"../\">Stephen C. Sanders</a>. Licensed under the GNU GPL v.3.<br />\r\nDo whatever you want with these programs, I personally don't care in the slightest.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
